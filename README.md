@@ -92,7 +92,3 @@ Linear SVM Decision Boundary
 
 RBF Kernel SVM Decision Boundary
 
-
-
-
-I'm happy to help!
